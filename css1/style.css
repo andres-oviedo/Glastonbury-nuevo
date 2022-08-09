@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+:root{
+
+}
+@font-face{
+	font-family: 'hochagi';
+	src: url("../fonts/hochagi.ttf") format('truetype');
+}
+
+@font-face{
+    font-family: 'megidana';
+	src: url("../fonts/Megidana.ttf") format('truetype');
+}
+
+@font-face{
+    font-family: 'londrina';
+    src: url("../fonts/LondrinaSolid-Regular.ttf") format('truetype');
+}
+
+
+#contact{
+    padding: 8% 0 5%;
+    background-color: #0C0C30;
+}
+
+#contact h4{
+    color: #FFFFFF;
+    font-family: 'hochagi';
+}
+
+.call{
+    text-transform: uppercase;
+    font-size: 60px;
+}
+
+.sounds{
+    font-size: 40px;
+    margin-bottom: 65px;
+}
+
+.btn-form{
+    background-color: #564EC6;
+	border: 2px solid #564EC6;
+	border-radius: 30px;
+	padding: 10px 30px;
+	color: #FFFFFF;
+    font-family: 'megidana';
+	text-transform: uppercase;
+	font-size: 25px;
+	letter-spacing: 1px;
+}
+
+.btn-form:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+#lineup{
+    padding: 8% 0 5%;
+    background-color: #0C0C30;
+}
+
+#lineup h3{
+    text-align: center;
+    font-family: 'hochagi';
+    color: #fff;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+#lineup h4{
+    font-family: 'hochagi';
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+#lineup p{
+    font-family: 'hochagi';
+    font-size: 31px;
+}
+
+#lineup ol{
+    font-family: 'londrina';
+    font-size: 25px;
+    color: #fff;
+    text-align: center;
+}
+
+#lineup ol:hover {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
+}
+
+#lineup .row{
+    text-align: left;
+}
+
+#lonely-hearts{
+    color: #C471FF;
+}
+
+#lonely-hearts-date{
+    color: #A24DC1;
+}
+
+#rabbit{
+   color: #73FFA5; 
+}
+
+#rabbit-date{
+    color: #4CBF91;
+}
+
+#temple{
+    color: #FFCA76;
+}
+
+#temple-date{
+    color: #BCA14B
+}
+
+.bg-pink{
+	background-color: #A44EC4;
+    margin-bottom: 20px;
+   
+    
+}
+
+.bg-green{
+	background-color: #4DC19D;
+    margin-bottom: 20px;
+}
+
+.bg-orange{
+    background-color: #C1774D;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
